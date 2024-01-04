@@ -1,0 +1,78 @@
+/* CSS cho Tablet */
+@media screen and (max-width: 992px) and (min-width: 768px) {
+  .nav4 {
+    display: none;
+  }
+  #info .section-content {
+    display: none;
+  }
+  #target {
+    padding: 20px 20px 20px 50px;
+  }
+  #info {
+    padding: 20px 20px 20px 50px;
+  }
+  .job-content1 {
+    padding: 0;
+  }
+  .cer-content {
+    flex-direction: column;
+  }
+  .cer-content-3 {
+    border-top: 2px solid #d6c08d;
+  }
+  .project-title {
+    font-size: 14px;
+  }
+  .project-border {
+    font-size: 10px;
+    padding: 10px 4px !important;
+  }
+  .project-border span {
+    margin-right: 5px !important;
+  }
+  .container1 {
+    width: 90%;
+  }
+
+  td {
+    font-size: 12px;
+  }
+  tr td:first-child {
+    width: 15%;
+  }
+  /* Phần nâng cao */
+  /* Căn lề */
+  .border323 {
+    padding-left: 20px;
+  }
+  .fw-bold {
+    padding-left: 40px;
+  }
+  .lead {
+    padding-left: 40px;
+  }
+  .text-left {
+    padding: 30px 0 0 70px;
+  }
+  .box1 {
+    height: 700px;
+    border-bottom: 10px solid #0d6efd;
+    border-top: 10px solid #0d6efd;
+  }
+  .box2 {
+    height: 800px;
+    border-bottom: 10px solid #0d6efd;
+  }
+  .box3 {
+    height: 800px;
+    border-bottom: 10px solid #0d6efd;
+  }
+  .box4 {
+    height: 400px;
+  }
+  .box5 {
+    height: 1700px;
+    border: 10px solid #0d6efd;
+  }
+}

@@ -1,0 +1,40 @@
+/* CSS cho Desktop */
+@media screen and (min-width: 993px) {
+  /* ẩn thông tin  user đến khi submit email */
+  #info .section-content {
+    display: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  .row {
+    padding: 0;
+  }
+  .box1 {
+    height: 650px;
+    border-right: 10px solid #0d6efd;
+    border-bottom: 10px solid #0d6efd;
+    border-top: 10px solid #0d6efd;
+  }
+  .box2 {
+    height: 650px;
+    border-bottom: 10px solid #0d6efd;
+    border-top: 10px solid #0d6efd;
+  }
+  .box3 {
+    height: 600px;
+    border-right: 10px solid #0d6efd;
+    border-bottom: 10px solid #0d6efd;
+  }
+  .box4 {
+    height: 600px;
+    border-bottom: 10px solid #0d6efd;
+  }
+  .box5 {
+    height: 1250px;
+    padding-left: 30px;
+    border-right: 10px solid #0d6efd;
+    border-top: 10px solid #0d6efd;
+  }
+}
