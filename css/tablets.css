@@ -18,9 +18,6 @@
   .cer-content {
     flex-direction: column;
   }
-  .cer-content-3 {
-    border-top: 2px solid #d6c08d;
-  }
   .project-title {
     font-size: 14px;
   }
